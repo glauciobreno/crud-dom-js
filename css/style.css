@@ -91,3 +91,7 @@ button {
 .delete-img {
   cursor: pointer;
 }
+
+input[type=text]:focus {
+  border-color: red; 
+}
